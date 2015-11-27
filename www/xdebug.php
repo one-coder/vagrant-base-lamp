@@ -1,8 +1,9 @@
 <?php
-	echo xdebug_time_index(), "\n";
+	echo xdebug_time_index();
 	for ($i = 0; $i < 250000; $i++)
 	{
-	    $pw = md5('1234');
+	    // do something
 	}
-	echo '<br>';
-	echo xdebug_time_index(), "\n";
+
+	echo '\n';
+	echo xdebug_time_index();
