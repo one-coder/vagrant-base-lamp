@@ -10,8 +10,8 @@ A base LAMP development stack for Vagrant
 
 ##Installation
 * Download and install [VirtualBox](https://www.virtualbox.org/)
-* Download adn install [Vagrant](https://www.vagrantup.com/)
-* Clone this repository `git clone git@github.com:one-coder/base-lamp.git`
+* Download and install [Vagrant](https://www.vagrantup.com/)
+* Clone this repository `git@github.com:one-coder/vagrant-base-lamp.git`
 * Download box file and move it to repository folder [Box](http://pan.baidu.com/s/1bn9eILL) password id `tihn`
 * Go to the repository folder and launch the box 
 * `cd [repository]`  `vagrant up`
