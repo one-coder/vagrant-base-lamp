@@ -32,7 +32,7 @@ A base LAMP development stack for Vagrant
 root password=`vagrant`
 
 ###Apache virtual hosts
-Add virtual hosts file in /etc/apache2/sites-available and use `a2ensite [you virtual hosts file]` shell to add virtual site to Apache, don't forget `service apache2 reload` and edit /etc/hosts. 
+Add virtual hosts file to /etc/apache2/sites-available and use `a2ensite [you virtual hosts file]` to add virtual site to Apache, don't forget `service apache2 reload` and edit /etc/hosts. 
 
 ###Mysql
 The guests local 3306 port is available on the host at port 33066. It is also available on every domain. Logging in can be done with username=`root`, password=`root`.
