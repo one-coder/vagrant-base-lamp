@@ -56,5 +56,4 @@ you can call `composer` from any directory.
 
 * Email(webxding@gmail.com)
 * QQ: 986096752
-
-[Chinses description from my blog .](http://www.one-coder.com/2015/11/26/350)
+* Chinses description from my [blog .](http://www.one-coder.com/2015/11/26/350)
